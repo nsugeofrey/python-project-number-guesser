@@ -1,0 +1,7 @@
+It's a guessing game in the format computer draws a random number and asks you to guess it and gives you feedback on your guess.
+Please enter a number between 1 and 100: 25
+25 is too low.
+Please enter another number between 1 and 100: 1337
+1337 is not between 1 and 100!
+Please enter another number between 1 and 100: 42
+42 was correct! You got it in 3 guesses!
